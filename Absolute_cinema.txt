@@ -1,0 +1,37 @@
+
+
+
+		
+	  ==> right_door.txt ==> bridge.txt |
+
+start.txt
+
+
+
+
+										      ==> bridge.txt |
+			    ==> chest.txt |				==> light.txt 
+								       		      ==> freedom.txt |
+	  ==> left_door.txt 			       ==> blockage.txt 
+					 ==> ahead.txt		        ==> past.txt 
+
+
+						       ==> liminality.txt 
+			    ==> past.txt 
+
+
+						       ==> komsomol.txt |
+					 ==> paths.txt 
+									==> citizen.txt |
+						       ==> glasses.txt 
+
+												==> bleed.txt |
+
+									 ==> ophthalmoscope.txt 
+													      ==> EFT.txt |
+
+												==> city.txt 
+													   	
+															     ==> deal.txt |
+													      ==> dealer.txt ==> trade.txt |
+															     ==> leave.txt |
